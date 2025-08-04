@@ -19,3 +19,6 @@
 4. clear => helps in cleaning the terminal .
 5. touch => to create a file .
 6. git init => used to initialize empty git repository .
+7. git status =>
+8. git add . => this means we have to add everything to the staging area , instead of " . " we can also name a particular file .
+9. 
