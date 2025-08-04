@@ -21,4 +21,8 @@
 6. git init => used to initialize empty git repository .
 7. git status =>
 8. git add . => this means we have to add everything to the staging area , instead of " . " we can also name a particular file .
-9. 
+9. git push origin main => to push our code 
+10. git pull origin main => to pull our code from GitHub to local .
+
+**common error**
+- merge conflict :
