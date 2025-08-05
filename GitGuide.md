@@ -12,6 +12,8 @@
 
 * stash command is used to roll back to a previous version .
 
+![img.png](img.png)
+
 ### **Commands**
 1. cd d: => to change directory to d .
 2. ls => list down all the directories .
@@ -24,6 +26,14 @@
 9. git push origin main => to push our code 
 10. git pull origin main => to pull our code from GitHub to local .
 11. git add . && git commit -m "third commit"
+12. git clone url ==> to clone a repo just paste its https address instead of url .
+13. git branch => used to list down all the present branches .
+14. git checkout -b Dev
+15. git log
+16. git checkout Dev
+17. 
+
 
 **common error**
-- merge conflict :
+- merge conflict : When we have changes in the same file and at same line in both the local repo and repo on GitHub .
+-  
