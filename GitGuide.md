@@ -24,6 +24,8 @@
 9. git push origin main => to push our code 
 10. git pull origin main => to pull our code from GitHub to local .
 11. git add . && git commit -m "third commit"
+12. git checkout Dev 
+13. git stash => used when we need to do checkout to some other branch, and we have some uncommited changes then either we can commit them and checkout or we can stash means remove or cut those changes and checkout .
 
 **common error**
 - merge conflict :
