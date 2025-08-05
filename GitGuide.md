@@ -13,6 +13,7 @@
 * stash command is used to roll back to a previous version .
 
 ![img.png](img.png)
+![img_1.png](img_1.png)
 
 ### **Commands**
 1. cd d: => to change directory to d .
@@ -32,6 +33,8 @@
 15. git log
 16. git checkout Dev
 17. git stash => used when we need to do checkout to some other branch, and we have some uncommited changes then either we can commit them and checkout or we can stash means remove or cut those changes and checkout .
+18. git stash pop
+19. 
 
 
 **common error**
